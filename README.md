@@ -1,5 +1,5 @@
-- 👋 Hi, I’m YX
-- 🌱 I’m currently learning jest、micro app
+- 👋 Hi, I’m FeiMiao
+- 🌱 I’m currently learning jest、micro app，ts
 
 <!---
 yang49519845/yang49519845 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
